@@ -20,13 +20,12 @@
 ##
 
 <div>
-   <a href="https://discord.gg/RaphaelHeibel" target="_blank"><img  src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
     <a href = "mailto:raphaelrheibel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/raphael-rodrigues-heibel-35a77695" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   ![Snake animation](https://github.com/RaphaelHeibel/RaphaelHeibel/blob/output/github-contribution-grid-snake.svg)
 </div>
 
-- 🔭 Hoje trabalho com back-end
-- 🌱 Hoje estou aprendendo a modelar com Unity
-- 📫 How to reach me: Contate-me no email: raphaelrheibel@gmail.com
+- 🔭 Atualmente trabalho com back-end
+- 🌱 Atualmente estou aprendendo a modelar com Unity
+- 📫 Contate-me no email: raphaelrheibel@gmail.com
